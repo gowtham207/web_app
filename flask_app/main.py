@@ -8,6 +8,12 @@ from utils import db_con, logger, SECRET_SALT, SECRET_KEY, EFS_ROOT
 
 app = Flask(__name__)
 
+@app.route('/')
+def root():
+    return jsonify({
+        "version": "1.2"
+    })
+
 @app.route('/images/<path:filename>', methods=['GET'])
 def serve_image(filename):
     file_path = safe_join(EFS_ROOT, filename)
@@ -18,21 +24,25 @@ def serve_image(filename):
 
 @app.before_request
 def before_request():
-    if request.endpoint in ['login', 'register']:
+    print(request.endpoint)
+    if request.endpoint in ['root', 'login', 'register']:
         return
+
     token = None
     if 'Authorization' in request.headers:
         token = request.headers['Authorization'].split(" ")[1]
+    
     if not token:
         logger.warning('Token is missing in the request.')
         return jsonify({'message': 'Token is missing!'}), 403
+    
     try:
+        con, cur = db_con()
         data = jwt.decode(token, SECRET_KEY, algorithms=['HS256'])
         request.user_id = data['user_id']
         request.user_email = data['user_email']
         print(request.user_email)
 
-        con, cur = db_con()
         query = "SELECT 1 FROM users WHERE email=%s AND deleted_at IS NULL"
         cur.execute(query, (request.user_email,))
         if not cur.fetchone():
@@ -50,12 +60,6 @@ def before_request():
     finally:
         if con:
             con.close()
-
-@app.route('/')
-def root():
-    return jsonify({
-        "version": "0.2"
-    })
 
 @app.route('/login', methods=['POST'])
 def login():
@@ -77,7 +81,7 @@ def login():
                 token = jwt.encode({
                     'user_id': user['id'],
                     'user_email': user['email'],
-                    'exp': datetime.datetime.utcnow() + datetime.timedelta(hours=1)  # Token expiry time
+                    'exp': datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=1)
                 }, SECRET_KEY, algorithm='HS256')
 
                 logger.info(f"User {user['email']} logged in successfully.")
