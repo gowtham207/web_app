@@ -11,8 +11,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the application code into the container at /app
 COPY .  .
 
-
-
 EXPOSE 80
 
 # Define the command to run the Flask app

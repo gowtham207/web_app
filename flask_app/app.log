@@ -1,0 +1,349 @@
+
+2024-07-27 23:12:53,128 - INFO -  * Detected change in 'D:\\web_app\\main.py', reloading
+2024-07-27 23:12:53,157 - INFO -  * Restarting with stat
+2024-07-27 23:12:53,393 - WARNING -  * Debugger is active!
+2024-07-27 23:12:53,397 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:29:20,845 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:29:20,846 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:29:20,849 - INFO -  * Restarting with stat
+2024-07-27 23:29:21,071 - WARNING -  * Debugger is active!
+2024-07-27 23:29:21,074 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:29:35,527 - WARNING - Token is missing in the request.
+2024-07-27 23:29:35,528 - INFO - 127.0.0.1 - - [27/Jul/2024 23:29:35] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:29:38,812 - WARNING - Token is missing in the request.
+2024-07-27 23:29:38,813 - INFO - 127.0.0.1 - - [27/Jul/2024 23:29:38] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:29:51,435 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:29:51,456 - INFO -  * Restarting with stat
+2024-07-27 23:29:51,697 - WARNING -  * Debugger is active!
+2024-07-27 23:29:51,700 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:00,451 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:00,473 - INFO -  * Restarting with stat
+2024-07-27 23:30:00,707 - WARNING -  * Debugger is active!
+2024-07-27 23:30:00,710 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:01,937 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:01,959 - INFO -  * Restarting with stat
+2024-07-27 23:30:02,185 - WARNING -  * Debugger is active!
+2024-07-27 23:30:02,188 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:16,356 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:16,378 - INFO -  * Restarting with stat
+2024-07-27 23:30:16,613 - WARNING -  * Debugger is active!
+2024-07-27 23:30:16,616 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:16,746 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:16,767 - INFO -  * Restarting with stat
+2024-07-27 23:30:17,002 - WARNING -  * Debugger is active!
+2024-07-27 23:30:17,005 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:23,591 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:23,611 - INFO -  * Restarting with stat
+2024-07-27 23:30:23,837 - WARNING -  * Debugger is active!
+2024-07-27 23:30:23,840 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:26,124 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:26,146 - INFO -  * Restarting with stat
+2024-07-27 23:30:26,385 - WARNING -  * Debugger is active!
+2024-07-27 23:30:26,388 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:29,767 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:29,788 - INFO -  * Restarting with stat
+2024-07-27 23:30:30,025 - WARNING -  * Debugger is active!
+2024-07-27 23:30:30,028 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:30:53,874 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:30:53,897 - INFO -  * Restarting with stat
+2024-07-27 23:30:54,121 - WARNING -  * Debugger is active!
+2024-07-27 23:30:54,125 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:32:50,572 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\utils.py', reloading
+2024-07-27 23:32:50,591 - INFO -  * Restarting with stat
+2024-07-27 23:48:44,449 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:48:44,449 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:48:44,452 - INFO -  * Restarting with stat
+2024-07-27 23:48:44,678 - WARNING -  * Debugger is active!
+2024-07-27 23:48:44,682 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:48:54,525 - WARNING - Token has expired.
+2024-07-27 23:48:54,529 - INFO - 127.0.0.1 - - [27/Jul/2024 23:48:54] "[35m[1mGET /images/ocecan.jpg HTTP/1.1[0m" 500 -
+2024-07-27 23:49:22,585 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\utils.py', reloading
+2024-07-27 23:49:22,612 - INFO -  * Restarting with stat
+2024-07-27 23:49:22,854 - WARNING -  * Debugger is active!
+2024-07-27 23:49:22,858 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:49:25,185 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:49:25,218 - INFO -  * Restarting with stat
+2024-07-27 23:49:25,455 - WARNING -  * Debugger is active!
+2024-07-27 23:49:25,458 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:49:33,073 - WARNING - Token has expired.
+2024-07-27 23:49:33,076 - INFO - 127.0.0.1 - - [27/Jul/2024 23:49:33] "[35m[1mGET /images/ocecan.jpg HTTP/1.1[0m" 500 -
+2024-07-27 23:49:39,444 - WARNING - Token has expired.
+2024-07-27 23:49:39,446 - INFO - 127.0.0.1 - - [27/Jul/2024 23:49:39] "[35m[1mGET /images/ocean.jpg HTTP/1.1[0m" 500 -
+2024-07-27 23:49:50,942 - WARNING - Token has expired.
+2024-07-27 23:49:50,944 - INFO - 127.0.0.1 - - [27/Jul/2024 23:49:50] "[35m[1mGET /images/ocean.jpg HTTP/1.1[0m" 500 -
+2024-07-27 23:50:24,209 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:50:24,209 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:50:24,212 - INFO -  * Restarting with stat
+2024-07-27 23:50:24,434 - WARNING -  * Debugger is active!
+2024-07-27 23:50:24,437 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:50:32,339 - WARNING - Token is missing in the request.
+2024-07-27 23:50:32,340 - INFO - 127.0.0.1 - - [27/Jul/2024 23:50:32] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:50:34,569 - WARNING - Token is missing in the request.
+2024-07-27 23:50:34,570 - INFO - 127.0.0.1 - - [27/Jul/2024 23:50:34] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:50:48,303 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:50:48,324 - INFO -  * Restarting with stat
+2024-07-27 23:50:48,563 - WARNING -  * Debugger is active!
+2024-07-27 23:50:48,567 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:50:49,791 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:50:49,812 - INFO -  * Restarting with stat
+2024-07-27 23:50:50,056 - WARNING -  * Debugger is active!
+2024-07-27 23:50:50,060 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:50:51,762 - WARNING - Token is missing in the request.
+2024-07-27 23:50:51,763 - INFO - 127.0.0.1 - - [27/Jul/2024 23:50:51] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:50:52,948 - WARNING - Token is missing in the request.
+2024-07-27 23:50:52,949 - INFO - 127.0.0.1 - - [27/Jul/2024 23:50:52] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:50:53,858 - WARNING - Token is missing in the request.
+2024-07-27 23:50:53,858 - INFO - 127.0.0.1 - - [27/Jul/2024 23:50:53] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:51:10,677 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:51:10,698 - INFO -  * Restarting with stat
+2024-07-27 23:51:36,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:51:36,234 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:51:36,237 - INFO -  * Restarting with stat
+2024-07-27 23:51:36,460 - WARNING -  * Debugger is active!
+2024-07-27 23:51:36,463 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:51:41,364 - WARNING - Token is missing in the request.
+2024-07-27 23:51:41,365 - INFO - 127.0.0.1 - - [27/Jul/2024 23:51:41] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:51:46,338 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:51:46,358 - INFO -  * Restarting with stat
+2024-07-27 23:51:46,577 - WARNING -  * Debugger is active!
+2024-07-27 23:51:46,580 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:51:48,633 - WARNING - Token is missing in the request.
+2024-07-27 23:51:48,634 - INFO - 127.0.0.1 - - [27/Jul/2024 23:51:48] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:51:59,675 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:51:59,696 - INFO -  * Restarting with stat
+2024-07-27 23:52:13,639 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:52:13,639 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:52:13,643 - INFO -  * Restarting with stat
+2024-07-27 23:52:13,863 - WARNING -  * Debugger is active!
+2024-07-27 23:52:13,866 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:52:16,588 - WARNING - Token is missing in the request.
+2024-07-27 23:52:16,589 - INFO - 127.0.0.1 - - [27/Jul/2024 23:52:16] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:52:18,527 - WARNING - Token is missing in the request.
+2024-07-27 23:52:18,527 - INFO - 127.0.0.1 - - [27/Jul/2024 23:52:18] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:53:03,386 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:53:03,386 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:53:03,389 - INFO -  * Restarting with stat
+2024-07-27 23:53:03,609 - WARNING -  * Debugger is active!
+2024-07-27 23:53:03,612 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:53:07,396 - WARNING - Token is missing in the request.
+2024-07-27 23:53:07,397 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:07] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:53:09,125 - WARNING - Token is missing in the request.
+2024-07-27 23:53:09,126 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:09] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:53:09,575 - WARNING - Token is missing in the request.
+2024-07-27 23:53:09,576 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:09] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:53:34,959 - INFO - Database connection established successfully.
+2024-07-27 23:53:35,146 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-27 23:53:35,147 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:35] "POST /login HTTP/1.1" 200 -
+2024-07-27 23:53:38,974 - WARNING - Token is missing in the request.
+2024-07-27 23:53:38,974 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:38] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:53:45,329 - INFO - Database connection established successfully.
+2024-07-27 23:53:45,517 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-27 23:53:45,517 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:45] "POST /login HTTP/1.1" 200 -
+2024-07-27 23:53:50,418 - INFO - Database connection established successfully.
+2024-07-27 23:53:50,419 - WARNING - Registration attempt failed: Email praveen@gmail.com already exists.
+2024-07-27 23:53:50,420 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:50] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-07-27 23:53:53,695 - WARNING - Token is missing in the request.
+2024-07-27 23:53:53,696 - INFO - 127.0.0.1 - - [27/Jul/2024 23:53:53] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:54:37,580 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:54:37,602 - INFO -  * Restarting with stat
+2024-07-27 23:54:37,858 - WARNING -  * Debugger is active!
+2024-07-27 23:54:37,861 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:54:39,831 - WARNING - Token is missing in the request.
+2024-07-27 23:54:39,831 - INFO - 127.0.0.1 - - [27/Jul/2024 23:54:39] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:55:03,891 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:55:03,912 - INFO -  * Restarting with stat
+2024-07-27 23:55:14,955 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:55:14,956 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:55:14,959 - INFO -  * Restarting with stat
+2024-07-27 23:55:15,192 - WARNING -  * Debugger is active!
+2024-07-27 23:55:15,196 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:55:16,963 - INFO - 127.0.0.1 - - [27/Jul/2024 23:55:16] "[33mGET / HTTP/1.1[0m" 404 -
+2024-07-27 23:55:20,271 - INFO - 127.0.0.1 - - [27/Jul/2024 23:55:20] "[33mGET / HTTP/1.1[0m" 404 -
+2024-07-27 23:55:21,140 - INFO - 127.0.0.1 - - [27/Jul/2024 23:55:21] "[33mGET / HTTP/1.1[0m" 404 -
+2024-07-27 23:55:25,168 - INFO - 127.0.0.1 - - [27/Jul/2024 23:55:25] "[33mGET / HTTP/1.1[0m" 404 -
+2024-07-27 23:55:35,831 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:55:35,851 - INFO -  * Restarting with stat
+2024-07-27 23:55:36,082 - WARNING -  * Debugger is active!
+2024-07-27 23:55:36,086 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:55:37,306 - WARNING - Token is missing in the request.
+2024-07-27 23:55:37,307 - INFO - 127.0.0.1 - - [27/Jul/2024 23:55:37] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:55:45,965 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:55:45,989 - INFO -  * Restarting with stat
+2024-07-27 23:56:29,299 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:56:29,299 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:56:29,302 - INFO -  * Restarting with stat
+2024-07-27 23:56:29,523 - WARNING -  * Debugger is active!
+2024-07-27 23:56:29,526 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:56:36,133 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:56:36,157 - INFO -  * Restarting with stat
+2024-07-27 23:56:36,399 - WARNING -  * Debugger is active!
+2024-07-27 23:56:36,402 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:56:37,006 - WARNING - Token is missing in the request.
+2024-07-27 23:56:37,007 - INFO - 127.0.0.1 - - [27/Jul/2024 23:56:37] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:56:38,322 - WARNING - Token is missing in the request.
+2024-07-27 23:56:38,323 - INFO - 127.0.0.1 - - [27/Jul/2024 23:56:38] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:56:40,853 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:56:40,885 - INFO -  * Restarting with stat
+2024-07-27 23:56:41,123 - WARNING -  * Debugger is active!
+2024-07-27 23:56:41,127 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:56:43,414 - WARNING - Token is missing in the request.
+2024-07-27 23:56:43,415 - INFO - 127.0.0.1 - - [27/Jul/2024 23:56:43] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:56:49,906 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:56:49,928 - INFO -  * Restarting with stat
+2024-07-27 23:56:55,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:56:55,389 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:56:55,392 - INFO -  * Restarting with stat
+2024-07-27 23:56:55,622 - WARNING -  * Debugger is active!
+2024-07-27 23:56:55,626 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:56:57,119 - WARNING - Token is missing in the request.
+2024-07-27 23:56:57,120 - INFO - 127.0.0.1 - - [27/Jul/2024 23:56:57] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:57:14,074 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:57:14,096 - INFO -  * Restarting with stat
+2024-07-27 23:57:14,330 - WARNING -  * Debugger is active!
+2024-07-27 23:57:14,334 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:57:16,633 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:57:16,654 - INFO -  * Restarting with stat
+2024-07-27 23:57:16,914 - WARNING -  * Debugger is active!
+2024-07-27 23:57:16,918 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:57:19,206 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:57:19,229 - INFO -  * Restarting with stat
+2024-07-27 23:57:19,461 - WARNING -  * Debugger is active!
+2024-07-27 23:57:19,464 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:57:20,681 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:57:20,708 - INFO -  * Restarting with stat
+2024-07-27 23:57:20,957 - WARNING -  * Debugger is active!
+2024-07-27 23:57:20,961 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:57:23,286 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:57:23,309 - INFO -  * Restarting with stat
+2024-07-27 23:57:23,550 - WARNING -  * Debugger is active!
+2024-07-27 23:57:23,553 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:57:24,266 - WARNING - Token is missing in the request.
+2024-07-27 23:57:24,266 - INFO - 127.0.0.1 - - [27/Jul/2024 23:57:24] "[31m[1mGET / HTTP/1.1[0m" 403 -
+2024-07-27 23:57:42,056 - INFO - Database connection established successfully.
+2024-07-27 23:57:42,243 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-27 23:57:42,244 - INFO - 127.0.0.1 - - [27/Jul/2024 23:57:42] "POST /login HTTP/1.1" 200 -
+2024-07-27 23:57:54,946 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:57:54,968 - INFO -  * Restarting with stat
+2024-07-27 23:57:55,205 - WARNING -  * Debugger is active!
+2024-07-27 23:57:55,208 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:57:59,643 - INFO - Database connection established successfully.
+2024-07-27 23:57:59,831 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-27 23:57:59,832 - INFO - 127.0.0.1 - - [27/Jul/2024 23:57:59] "POST /login1 HTTP/1.1" 200 -
+2024-07-27 23:58:09,402 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:58:09,423 - INFO -  * Restarting with stat
+2024-07-27 23:58:09,671 - WARNING -  * Debugger is active!
+2024-07-27 23:58:09,675 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:58:19,536 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:58:19,561 - INFO -  * Restarting with stat
+2024-07-27 23:58:31,253 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:58:31,253 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:58:31,257 - INFO -  * Restarting with stat
+2024-07-27 23:58:31,483 - WARNING -  * Debugger is active!
+2024-07-27 23:58:31,487 - INFO -  * Debugger PIN: 132-363-732
+2024-07-27 23:58:33,131 - INFO - Database connection established successfully.
+2024-07-27 23:58:33,320 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-27 23:58:33,320 - INFO - 127.0.0.1 - - [27/Jul/2024 23:58:33] "POST /login HTTP/1.1" 200 -
+2024-07-27 23:58:37,812 - INFO - 127.0.0.1 - - [27/Jul/2024 23:58:37] "GET / HTTP/1.1" 200 -
+2024-07-27 23:59:31,971 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-27 23:59:31,992 - INFO -  * Restarting with stat
+2024-07-27 23:59:47,038 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.29.100:80
+2024-07-27 23:59:47,039 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-27 23:59:47,042 - INFO -  * Restarting with stat
+2024-07-27 23:59:47,261 - WARNING -  * Debugger is active!
+2024-07-27 23:59:47,264 - INFO -  * Debugger PIN: 132-363-732
+2024-07-28 00:00:03,563 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-28 00:00:03,586 - INFO -  * Restarting with stat
+2024-07-28 00:00:03,806 - WARNING -  * Debugger is active!
+2024-07-28 00:00:03,810 - INFO -  * Debugger PIN: 132-363-732
+2024-07-28 00:00:13,634 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-28 00:00:13,654 - INFO -  * Restarting with stat
+2024-07-28 00:00:13,873 - WARNING -  * Debugger is active!
+2024-07-28 00:00:13,877 - INFO -  * Debugger PIN: 132-363-732
+2024-07-28 00:00:16,570 - INFO - 127.0.0.1 - - [28/Jul/2024 00:00:16] "GET / HTTP/1.1" 200 -
+2024-07-28 00:00:23,457 - INFO - Database connection established successfully.
+2024-07-28 00:00:23,459 - WARNING - Registration attempt failed: Email praveen@gmail.com already exists.
+2024-07-28 00:00:23,460 - INFO - 127.0.0.1 - - [28/Jul/2024 00:00:23] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-07-28 00:00:26,332 - INFO - Database connection established successfully.
+2024-07-28 00:00:26,519 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-28 00:00:26,520 - INFO - 127.0.0.1 - - [28/Jul/2024 00:00:26] "POST /login HTTP/1.1" 200 -
+2024-07-28 00:00:29,882 - WARNING - Token has expired.
+2024-07-28 00:00:29,885 - INFO - 127.0.0.1 - - [28/Jul/2024 00:00:29] "[35m[1mPOST /getProducts HTTP/1.1[0m" 500 -
+2024-07-28 00:00:36,379 - INFO - Database connection established successfully.
+2024-07-28 00:00:36,570 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-28 00:00:36,571 - INFO - 127.0.0.1 - - [28/Jul/2024 00:00:36] "POST /login HTTP/1.1" 200 -
+2024-07-28 00:02:43,853 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\utils.py', reloading
+2024-07-28 00:02:43,874 - INFO -  * Restarting with stat
+2024-07-28 00:02:44,128 - WARNING -  * Debugger is active!
+2024-07-28 00:02:44,132 - INFO -  * Debugger PIN: 132-363-732
+2024-07-28 00:03:04,674 - WARNING - Token has expired.
+2024-07-28 00:03:04,677 - INFO - 127.0.0.1 - - [28/Jul/2024 00:03:04] "[35m[1mPOST /getProducts HTTP/1.1[0m" 500 -
+2024-07-28 00:06:20,797 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-28 00:06:20,819 - INFO -  * Restarting with stat
+2024-07-28 00:06:21,051 - WARNING -  * Debugger is active!
+2024-07-28 00:06:21,054 - INFO -  * Debugger PIN: 132-363-732
+2024-07-28 00:06:25,735 - INFO - Database connection established successfully.
+2024-07-28 00:06:25,926 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-28 00:06:25,926 - INFO - 127.0.0.1 - - [28/Jul/2024 00:06:25] "POST /login HTTP/1.1" 200 -
+2024-07-28 00:06:28,771 - INFO - Database connection established successfully.
+2024-07-28 00:06:28,773 - WARNING - Registration attempt failed: Email praveen@gmail.com already exists.
+2024-07-28 00:06:28,774 - INFO - 127.0.0.1 - - [28/Jul/2024 00:06:28] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-07-28 00:06:31,548 - INFO - Database connection established successfully.
+2024-07-28 00:06:31,738 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-28 00:06:31,738 - INFO - 127.0.0.1 - - [28/Jul/2024 00:06:31] "POST /login HTTP/1.1" 200 -
+2024-07-28 00:06:34,221 - WARNING - Token has expired.
+2024-07-28 00:06:34,224 - INFO - 127.0.0.1 - - [28/Jul/2024 00:06:34] "[35m[1mPOST /getProducts HTTP/1.1[0m" 500 -
+2024-07-28 00:08:38,082 - INFO -  * Detected change in 'D:\\web_app\\flask_app\\main.py', reloading
+2024-07-28 00:08:38,104 - INFO -  * Restarting with stat
+2024-07-28 00:08:38,350 - WARNING -  * Debugger is active!
+2024-07-28 00:08:38,353 - INFO -  * Debugger PIN: 132-363-732
+2024-07-28 00:08:42,477 - INFO - Database connection established successfully.
+2024-07-28 00:08:42,478 - WARNING - Token has expired.
+2024-07-28 00:08:42,479 - INFO - 127.0.0.1 - - [28/Jul/2024 00:08:42] "[31m[1mPOST /getProducts HTTP/1.1[0m" 403 -
+2024-07-28 00:08:46,736 - INFO - Database connection established successfully.
+2024-07-28 00:08:46,737 - WARNING - Registration attempt failed: Email praveen@gmail.com already exists.
+2024-07-28 00:08:46,738 - INFO - 127.0.0.1 - - [28/Jul/2024 00:08:46] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2024-07-28 00:08:49,703 - INFO - Database connection established successfully.
+2024-07-28 00:08:49,890 - INFO - User praveen@gmail.com logged in successfully.
+2024-07-28 00:08:49,890 - INFO - 127.0.0.1 - - [28/Jul/2024 00:08:49] "POST /login HTTP/1.1" 200 -
+2024-07-28 00:09:04,256 - INFO - Database connection established successfully.
+2024-07-28 00:09:04,284 - INFO - Database connection established successfully.
+2024-07-28 00:09:04,285 - INFO - Products fetched successfully.
+2024-07-28 00:09:04,286 - INFO - 127.0.0.1 - - [28/Jul/2024 00:09:04] "POST /getProducts HTTP/1.1" 200 -
+2024-07-28 00:09:21,204 - INFO - Database connection established successfully.
+2024-07-28 00:09:21,204 - WARNING - Token has expired.
+2024-07-28 00:09:21,205 - INFO - 127.0.0.1 - - [28/Jul/2024 00:09:21] "[31m[1mGET /images/laptop.jpg HTTP/1.1[0m" 403 -
+2024-07-28 00:09:28,829 - INFO - Database connection established successfully.
+2024-07-28 00:09:28,859 - INFO - 127.0.0.1 - - [28/Jul/2024 00:09:28] "GET /images/laptop.jpg HTTP/1.1" 200 -
