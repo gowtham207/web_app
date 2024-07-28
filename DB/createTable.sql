@@ -62,8 +62,8 @@ CREATE TABLE product (
 -- Insert sample products into the product table
 INSERT INTO product (product_name, description, price, stock_quantity, image_url, brand, created_at, updated_at)
 VALUES 
-    ('Laptop', 'A high-performance laptop with 16GB RAM and 512GB SSD.', 999.99, 10, 'https://example.com/images/laptop.jpg', 'TechBrand', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
-    ('Smartphone', 'Latest model with a 6.5-inch display and 128GB storage.', 499.99, 25, 'https://example.com/images/smartphone.jpg', 'MobileCo', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
-    ('Headphones', 'Noise-cancelling wireless headphones with long battery life.', 149.99, 50, 'https://example.com/images/headphones.jpg', 'AudioX', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
-    ('Smartwatch', 'Smartwatch with fitness tracking and heart rate monitoring.', 199.99, 30, 'https://example.com/images/smartwatch.jpg', 'FitLife', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
-    ('Camera', 'Digital camera with 4K video recording and 20MP resolution.', 799.99, 15, 'https://example.com/images/camera.jpg', 'PhotoPro', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+    ('Laptop', 'A high-performance laptop with 16GB RAM and 512GB SSD.', 999.99, 10, 'laptop.jpg', 'TechBrand', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Smartphone', 'Latest model with a 6.5-inch display and 128GB storage.', 499.99, 25, 'mobile.jpeg', 'MobileCo', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Headphones', 'Noise-cancelling wireless headphones with long battery life.', 149.99, 50, 'headphone.jpg', 'AudioX', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Smartwatch', 'Smartwatch with fitness tracking and heart rate monitoring.', 199.99, 30, 'watch.jpeg', 'FitLife', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Camera', 'Digital camera with 4K video recording and 20MP resolution.', 799.99, 15, 'camera.jpeg', 'PhotoPro', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);

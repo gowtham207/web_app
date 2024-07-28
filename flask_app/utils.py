@@ -1,6 +1,6 @@
 import os
-import psycopg2
-from psycopg2.extras import RealDictCursor
+import mysql.connector
+from mysql.connector import Error
 from dotenv import load_dotenv
 import logging
 
@@ -33,21 +33,21 @@ def db_con():
     con = None
     cur = None
     try:
-        con = psycopg2.connect(
+        con = mysql.connector.connect(
+            host=DB_HOST,
+            database=DB_NAME,
             user=DB_USER,
             password=DB_PASS,
-            dbname=DB_NAME,
-            host=DB_HOST,
             port=DB_PORT
         )
-        cur = con.cursor(cursor_factory=RealDictCursor)
-        logger.info('Database connection established successfully.')
-        return con, cur
-    except psycopg2.OperationalError as e:
-        logger.error(f"OperationalError: {e}")
-    except psycopg2.InterfaceError as e:
-        logger.error(f"InterfaceError: {e}")
-    except psycopg2.DatabaseError as e:
-        logger.error(f"DatabaseError: {e}")
+        if con.is_connected():
+            db_info = con.get_server_info()
+            logger.info("Connected to MySQL Server version %s", db_info)
+            cur = con.cursor(dictionary=True)  # Use dictionary=True for dict-like cursor
+            logger.info('Database connection established successfully.')
+            return con, cur
+    except Error as e:
+        logger.error(f"MySQL Error: {e}")
     except Exception as e:
         logger.error(f"Unexpected error: {e}")
+    return con, cur
