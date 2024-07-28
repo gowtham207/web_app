@@ -1,8 +1,6 @@
 flask
 uvicorn
-psycopg2
-psycopg2-binary
+mysql-connector-python
+python-dotenv
 bcrypt
 PyJWT
-
-
